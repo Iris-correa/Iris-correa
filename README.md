@@ -1,6 +1,6 @@
 ### Olá, eu sou a Iris Correa! 👋
 
-- 🎓 Cursando 2/4 semestre em ADS - Centro Universitário Braz Cubas
+- 🎓 Cursando 4/4 semestre em ADS - Centro Universitário Braz Cubas
 - 🌱 Estou atualmente estudando Python
 - 📫 Contato: iris555.correa@yahoo.com
 - 😄 Pronouns: ela/dela
