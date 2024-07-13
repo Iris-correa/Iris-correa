@@ -1,9 +1,9 @@
-### Olá, eu sou a Iris Correa! 👋
+### Hi! 👋
 
-- 🎓 Cursando 4/4 semestre em ADS - Centro Universitário Braz Cubas
-- 🌱 Estou atualmente estudando Python
+#### Currently:
+- 🎓 Data engineer jr
+- 🌱 Studing about data architecture 🎲
 - 📫 Contato: iris555.correa@yahoo.com
-- 😄 Pronouns: ela/dela
 
 <div>
   <a href = "https://github.com/Iris-correa">
