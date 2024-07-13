@@ -2,7 +2,7 @@
 
 #### Currently:
 - 🎓 Data engineer jr
-- 🌱 Studing about data architecture 🎲
+- 🌱 Studying data architecture 🎲
 - 📫 Contato: iris555.correa@yahoo.com
 
 <div>
